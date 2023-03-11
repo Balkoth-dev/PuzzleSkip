@@ -1,4 +1,5 @@
 # Puzzle Skip
+
 Mod for Pathfinder: Wrath of the Righteous. Allows skipping puzzles.
 
 ## Disclaimers
@@ -35,3 +36,7 @@ Mod for Pathfinder: Wrath of the Righteous. Allows skipping puzzles.
 * [Asset Studio](https://github.com/Perfare/AssetStudio)
 * Vek17's blueprint dump
 * Gamerworf's [Save games](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/45)
+
+
+Permission has been given by the original author to maintain this fork.
+arkive#6785: You're welcome to maintain or fork it.
